@@ -1,0 +1,9 @@
+{
+  "name": "hash-map",
+  "version": "1.0.0",
+  "description": "HashMap project for The Odin Project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
